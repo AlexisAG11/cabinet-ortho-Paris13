@@ -1,0 +1,22 @@
+@import "tailwindcss";
+
+ 
+
+@theme {
+    --font-primary: Geist, font-sans;
+    --color-bg-dark: oklch(0.92 0 238);
+    --color-bg: oklch(0.96 0 238);
+    --color-bg-light: oklch(1 0 238);
+    --color-text: oklch(0.15 0 238);
+    --color-text-muted: oklch(0.4 0 238);
+    --color-highlight: oklch(1 0 238);
+    --color-border: oklch(0.6 0 238);
+    --color-border-muted: oklch(0.7 0 238);
+    --color-primary: oklch(0.4 0.1 238);
+    --color-secondary: oklch(0.4 0.1 58);
+    --color-danger: oklch(0.5 0.05 30);
+    --color-warning: oklch(0.5 0.05 100);
+    --color-success: oklch(0.5 0.05 160);
+    --color-info: oklch(0.5 0.05 260);
+
+}
